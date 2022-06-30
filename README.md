@@ -37,8 +37,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://your-solution-url.com)
-- Live Site URL: [Vercel live URL](https://your-live-site-url.com)
+- Solution URL: [Code on GitHub](https://github.com/johan1992/Stats-preview-card-johan)
+- Live Site URL: [Vercel live URL](https://stats-preview-card-johan.vercel.app/)
 
 ## My process
 
